@@ -1,179 +1,179 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'minecraft',
+    'Qual é o objetivo principal do modo Sobrevivência em Minecraft?',
+    'Sobreviver coletando recursos, construindo abrigo e evitando monstros.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'minecraft',
+    'O que é um "bioma" em Minecraft?',
+    'Um bioma é uma região com características climáticas e de terreno específicas, como florestas, desertos ou montanhas.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'minecraft',
+    'Como você pode obter diamantes no jogo?',
+    'Minando em camadas de profundidade 1 a 15, mas a camada mais eficiente é a 11.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'O que são mobs?',
+    'Mobs são criaturas que aparecem no jogo, incluindo animais, monstros e NPCs.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'O que é o Nether?',
+    ' O Nether é uma dimensão alternativa em Minecraft, cheia de novos recursos e perigos, acessada através de portais de obsidiana.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'O que você precisa para fazer uma cama?',
+    ' Três tábuas de madeira e três lã.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'Como você pode criar um portal para o End?',
+    'Usando 12 blocos de obsidiana e ativando o portal com um isqueiro ou fogo.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'O que faz a "picareta" em Minecraft?',
+    'É uma ferramenta usada para minerar blocos de pedra, minérios e alguns outros materiais.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'O que acontece se você morrer no jogo?',
+    'Você perde todos os itens que estava segurando, a menos que tenha ativado a opção de manter itens ao morrer.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'O que são "crafting recipes"?',
+    'São combinações específicas de itens usadas para criar novos itens ou blocos no jogo.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'O que é o modo Criativo?',
+    'Um modo onde os jogadores têm recursos ilimitados e podem voar.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'Qual é a principal função do carvão?',
+    'Usar como combustível para fornos e para fazer tochas.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'O que é uma aldeia?',
+    'Um local povoado por NPCs chamados "vilagers" que oferecem comércio.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'Como você pode cultivar trigo?',
+    ' Plantando sementes de trigo em solo arado e regando com água.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    ': O que é um Creeper?',
+    'Um mob explosivo que se aproxima do jogador e explode.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'Como você faz uma armadura de ferro?',
+    'Usando lingotes de ferro na mesa de trabalho para criar peças de armadura.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    ' O que é o "Enderman"?',
+    'Um mob que pode teletransportar-se e carrega blocos.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'Qual é o nome do dragão que você encontra no End?',
+    'O Dragão do End.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'O que são “biomas de gelo”?',
+    'Regiões com neve, gelo e clima frio.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'Como você pode criar uma poção?',
+    'Usando um suporte de poções com água e ingredientes específicos.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'O que é um "zumbi"?',
+    'Um mob hostil que ataca os jogadores.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'Como você pode criar uma fogueira?',
+    ' Usando três gravetos e três madeiras em uma mesa de trabalho.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'O que faz a "bacia de água" no jogo?',
+    'É usada para coletar água e também para cultivo.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    ' Como você pode domesticar um lobo?',
+    'Alimentando-o com ossos.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'O que são “minecarts”?',
+    'Veículos que podem ser usados em trilhos para transporte.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'Como você pode pescar no jogo?',
+    'Usando uma vara de pescar em corpos de água.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'O que acontece quando você coloca uma tocha em um bloco?',
+    ' A área fica iluminada, impedindo o spawn de mobs hostis.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'O que são "tnt"?',
+    'Um explosivo que pode ser ativado por fogo, redstone ou um botão.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'O que são "cavernas"?',
+    'Estruturas subterrâneas que contêm recursos e mobs.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'minecraft',
+    'Como você pode criar uma estante de livros?',
+    'Usando três livros e três tábuas de madeira.'
 )
